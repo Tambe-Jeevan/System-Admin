@@ -415,7 +415,7 @@ Interview preparation
 
 0 of 8 revised
 
-Active Directory, DNS, DHCP and GPO
+Active Directory, DNS, DHCP and GP0
 
 IP addressing, subnetting, VLAN, LAN/WAN
 
